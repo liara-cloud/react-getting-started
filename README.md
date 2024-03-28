@@ -1,6 +1,6 @@
-# ReactJS apps getting started
+# React apps getting started
 
-Example of how deploy a simple ReactJS project on [liara](https://liara.ir).
+Example of how deploy a simple React project on [liara](https://liara.ir).
 
 ## Deploying
 
