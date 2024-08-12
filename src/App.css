@@ -1,10 +1,10 @@
 @font-face {
   font-family: BeautifulPeople;
-  src: "%PUBLIC_URL%/BeautifulPeople.ttf";
+  src: url('./BeautifulPeople.ttf');
 }
 
 body {
-  background-color: #2B333F;
+  background-color: #2b333f;
   margin: 0;
   overflow: hidden;
   font-family: BeautifulPeople;
@@ -16,7 +16,7 @@ h1 {
   margin-top: 250px;
 }
 
-#drawing_canvas {
+canvas {
   position: absolute;
   margin: auto;
   width: 512px;
